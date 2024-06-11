@@ -1,0 +1,4 @@
+opencv-python         4.8.0.74
+numpy                 1.25.1
+ur_rtde               1.5.8
+onRobot               0.1.0
